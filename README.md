@@ -1,6 +1,6 @@
 # kalu
 
-A new Flutter project.
+A new Flutter Portfolio Web App that can blow your mind.
 
 ## Getting Started
 
